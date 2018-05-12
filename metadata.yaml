@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34553'
     url: http://www.gutenberg.org/2009/agents/34553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30364#An-Account-of-The-Kingdom-of-Nepal--13-And-of-the-Territories-Annexed-to-this-Dominion-by-the_
 gutenberg_issued: '2009-10-29'
 gutenberg_type: Text
 identifiers:
